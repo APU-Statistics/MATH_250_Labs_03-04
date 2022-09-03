@@ -1,6 +1,6 @@
 ---
-title: "Lab 03: Nobel Laureates"
-subtitle: ""
+title: "Lab 03: College Majors"
+subtitle: "Group # here"
 author: "Group member names here"
 date: "due September 20, 11:59 PM"
 output: 
@@ -11,6 +11,8 @@ output:
     highlight: tango
     theme: "cosmo"
 link-citations: yes
+editor_options: 
+  chunk_output_type: console
 ---
 
 # Load Packages
@@ -18,12 +20,6 @@ link-citations: yes
 ```{r load-packages, message = FALSE, warning = FALSE}
 
 ``` 
-
-# Load Data
-```{r load-data, message = FALSE}
-
-```
-
 
 # Exercise 1
 
@@ -53,4 +49,40 @@ link-citations: yes
 
 ```{r ex-6}
 ```
+
+# Exercise 7
+
+
+
+# Exercise 8
+
+```{r ex-8}
+```
+
+# Exercise 9
+
+
+
+# Exercise 10
+
+```{r ex-10}
+```
+
+
+# Exercise 11
+
+```{r ex-11}
+```
+
+# Exercise 12
+
+```{r ex-12}
+```
+
+# Exercise 13
+
+```{r ex-13}
+```
+
+# Exercise 14
 
